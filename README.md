@@ -7,6 +7,6 @@ space - adds dot
 click - click on a dot and it will go away  
 up arrow - speed up existing dots  
 down arrow - slow down existing dots  
-cornor - if a dot hits a cornor, the color will be set to white
+corner - if a dot hits a cornor, the color will be set to white
 
 
